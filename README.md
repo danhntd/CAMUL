@@ -1,2 +1,2 @@
-# CoRef-InstSynth
-This repository is the official implementation of the paper entitled: "CoRef-InstSynth: Context-Aware Refinement Masked Instance Synthesis for Image Segmentation"
+# CAMUL
+This repository is the official implementation of the paper entitled: "CAMUL: Context-Aware Multi-conditional Instance Synthesis for Image Segmentation"
